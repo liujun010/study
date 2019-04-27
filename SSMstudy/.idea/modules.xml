@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SSHstudy_common/SSHstudy_common.iml" filepath="$PROJECT_DIR$/SSHstudy_common/SSHstudy_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSHstudy_manager/SSHstudy_manager.iml" filepath="$PROJECT_DIR$/SSHstudy_manager/SSHstudy_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSHstudy_manager/SSHstudy_manager_mapper/SSHstudy_manager_mapper.iml" filepath="$PROJECT_DIR$/SSHstudy_manager/SSHstudy_manager_mapper/SSHstudy_manager_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSHstudy_manager/SSHstudy_manager_pojo/SSHstudy_manager_pojo.iml" filepath="$PROJECT_DIR$/SSHstudy_manager/SSHstudy_manager_pojo/SSHstudy_manager_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSHstudy_manager/SSHstudy_manager_service/SSHstudy_manager_service.iml" filepath="$PROJECT_DIR$/SSHstudy_manager/SSHstudy_manager_service/SSHstudy_manager_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSHstudy_manager/SSHstudy_manager_web/SSHstudy_manager_web.iml" filepath="$PROJECT_DIR$/SSHstudy_manager/SSHstudy_manager_web/SSHstudy_manager_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSHstudy_redis/SSHstudy_redis.iml" filepath="$PROJECT_DIR$/SSHstudy_redis/SSHstudy_redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSHstudy_rest/SSHstudy_rest.iml" filepath="$PROJECT_DIR$/SSHstudy_rest/SSHstudy_rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSHstudy_search/SSHstudy_search.iml" filepath="$PROJECT_DIR$/SSHstudy_search/SSHstudy_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSHstudy_sso/SSHstudy_sso.iml" filepath="$PROJECT_DIR$/SSHstudy_sso/SSHstudy_sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSMstudy.iml" filepath="$PROJECT_DIR$/SSMstudy.iml" />
+    </modules>
+  </component>
+</project>

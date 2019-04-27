@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SSHstudy_common" />
+        <module name="SSHstudy_manager_mapper" />
+        <module name="SSHstudy_manager_pojo" />
+        <module name="SSHstudy_manager_service" />
+        <module name="SSHstudy_manager_web" />
+        <module name="SSHstudy_redis" />
+        <module name="SSHstudy_rest" />
+        <module name="SSHstudy_search" />
+        <module name="SSHstudy_sso" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SSHstudy_common" target="1.8" />
+      <module name="SSHstudy_manager" target="1.8" />
+      <module name="SSHstudy_manager_mapper" target="1.8" />
+      <module name="SSHstudy_manager_pojo" target="1.8" />
+      <module name="SSHstudy_manager_service" target="1.8" />
+      <module name="SSHstudy_manager_web" target="1.8" />
+      <module name="SSHstudy_redis" target="1.8" />
+      <module name="SSHstudy_rest" target="1.8" />
+      <module name="SSHstudy_search" target="1.8" />
+      <module name="SSHstudy_sso" target="1.8" />
+      <module name="SSMstudy" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
